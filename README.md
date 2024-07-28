@@ -1,6 +1,13 @@
 # autoSaveScreenShots
 This repository privides a tool to automatically save the screenshots you generate
+
 该程序适用于在听网课时想截图PPT但是懒得退出视频或浏览器进行手动粘贴的场景，通过这个程序，你可以在全屏观看视频的同时手动截图，截图将自动保存到指定文件夹中，无需退出视频或浏览器，实现丝滑的网课截图，提高效率。
+
+适用系统：windows10及以上版本，暂不支持macos等操作系统，在指定版本外的操作系统上使用，可能会有意想不到的错误
+
+如果无法自动粘贴，请尝试重启电脑，或检查是否同时打开了多个该程序
+
+如果仍然无法解决上述问题，请发送电子邮件到作者邮箱并阐明bug：1583540868@qq.com
 
 # 下载教程：
 
