@@ -12,4 +12,5 @@ This repository privides a tool to automatically save the screenshots you genera
 # 使用教程
 
   1.双击.exe文件后进入界面，复制已经创建好的文件夹地址到里面并按下Enter键
+  
   2.此时程序开始自动截取你的手动屏幕截图，该截图需要用系统自带的截图按钮，你可以在你的键盘上找到PrSc按键进行手动截图，截好图后会自动保存到你刚刚输入的文件夹中
